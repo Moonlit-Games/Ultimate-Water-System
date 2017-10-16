@@ -20,6 +20,6 @@ Steps attempted to solve it.
 
 **unity:** 2017.2.0f3
 **uws version:** 1.0.0 
-**spec:** Nvidia Optimus, Intel HD 4600, Geforce GTX 860M
+**spec:** Intel Core i7, Geforce 640M, Intel HD 4000, ... 
 **issued by:** [@your_forum_name](_link to UWS forum post if it exists_)
 ```
