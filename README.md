@@ -23,3 +23,15 @@ Steps attempted to solve it.
 **spec:** Intel Core i7, Geforce 640M, Intel HD 4000, ... 
 **issued by:** [@your_forum_name](_link to UWS forum post if it exists_)
 ```
+
+## FAQ
+
+Q: I'm using Playway Water in my project and want to add Ultimate Water System, how?
+
+A: You should first delete all files assotiated with the PW package. The UWS codebase is not backwards compatible with PW and trying to merge them will cause huge headache. 
+
+
+## Troubleshooting
+
+#### After upgrading from PW asset to Ultimate Water System, _Texture has out of range width / height_ error occurs.
+The _Water Quality Settings_ can become corrupted when upgrading, try deleting it. The problem is discussed in [Issue #12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12)
