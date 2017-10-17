@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [unreleased]
 
-### Added
-### Changed
 ### Fixed
-### Removed
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - searching for the UWS folder causing errors when trying to create new WaterQualitySettings asset
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - lack of WaterQualitySettings synchronization with Unity profiles after creating new WQS asset
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - issue with WaterQualitySettings not creating after entering playmode (when it was deleted earlier)
