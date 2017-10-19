@@ -7,11 +7,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [unreleased]
 
 ### Fixed
-- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - searching for the UWS folder causing errors when trying to create new WaterQualitySettings asset
-- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - lack of WaterQualitySettings synchronization with Unity profiles after creating new WQS asset
-- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - issue with WaterQualitySettings not creating after entering playmode (when it was deleted earlier)
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - searching for the UWS folder causing errors when trying to create new _WaterQualitySettings_ asset
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - lack of _WaterQualitySettings_ synchronization with Unity profiles after creating new WQS asset
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - issue with _WaterQualitySettings_ not creating after entering playmode (when it was deleted earlier)
 - [#9](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/9) - removed black line caused by not cleared _WaterlessDepth_ texture
-- [#9](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/9) - fixed EdgeBlendFactor equation in Deferred Module
+- [#9](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/9) - fixed EdgeBlendFactor equation in _Deferred Module_ 
+- [#7](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/7) - added _ClipWaterCameraRange_ to _WaterProjectSettings_, turned clipping off by default.
 
 ## [2.0.0] - Ultimate Water System release
 ## [1.X.X] - Reserved for Playway Water
