@@ -17,9 +17,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - _Toggle SceneView Rendering_ is now saved in _Water Project Settings_
 
 ### Fixed
-- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - searching for the UWS folder causing errors when trying to create new WaterQualitySettings asset
-- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - lack of WaterQualitySettings synchronization with Unity profiles after creating new WQS asset
-- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - issue with WaterQualitySettings not creating after entering playmode (when it was deleted earlier)
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - searching for the UWS folder causing errors when trying to create new _WaterQualitySettings_ asset
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - lack of _WaterQualitySettings_ synchronization with Unity profiles after creating new WQS asset
+- [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - issue with _WaterQualitySettings_ not creating after entering playmode (when it was deleted earlier)
 - [#9](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/9) - removed black line caused by not cleared _WaterlessDepth_ texture
 - [#9](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/9) - fixed EdgeBlendFactor equation in _Deferred Module_
 - [#18](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/18) - "disco" effect with _Planar Reflections_ on AMD cards
