@@ -9,12 +9,14 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Added
 - [#16](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/16) - WaveEmitters from PW2.0b13
+- very basic demo scene showing ShipBowWaves
 
 ### Changed
  - merged fixes from _PlayWay Water v2.0b13_
  - _Water.GetHeightAt_ and other data sampling methods now compensate horizontal displacements by default.
  For the old behaviour, use _Water.GetHaightAtUncompensated_
 - _Toggle SceneView Rendering_ is now saved in _Water Project Settings_
+- all demo scenes now include reflection probles
 
 ### Fixed
 - [#12](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/12) - searching for the UWS folder causing errors when trying to create new _WaterQualitySettings_ asset
