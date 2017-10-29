@@ -5,7 +5,7 @@ AAA-quality, fully fledged water simulation plugin for Unity, with such function
 ## Info
 
 * current version: 2.0.0
-* current hot-fix: b1
+* current hot-fix: b3
 * [documentation](https://docs.google.com/document/d/1pHTvNq1u5rpVR4wS_QD5bjGNtdL8pY0q7f9BGGAmXX4/edit)
 
 ## Issues
