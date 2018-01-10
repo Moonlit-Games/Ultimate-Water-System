@@ -4,8 +4,8 @@ AAA-quality, fully fledged water simulation plugin for Unity, with such function
 
 ## Info
 
-* current version: 2.0.0
-* current hot-fix: b3
+* current version: 2.1.0 (awaiting Asset Store review)
+* current hot-fix: -
 * [documentation](https://docs.google.com/document/d/1pHTvNq1u5rpVR4wS_QD5bjGNtdL8pY0q7f9BGGAmXX4/edit)
 
 ## Issues
@@ -18,8 +18,8 @@ so we are able to contact you through Unity forum.
 Description of the problem.
 Steps attempted to solve it.
 
-**unity:** 2017.2.0f3
-**uws version:** 1.0.0 
+**unity:** 2017.3.0f3
+**uws version:** 2.1.0 
 **spec:** Intel Core i7, Geforce 640M, Intel HD 4000, ... 
 **issued by:** [@your_forum_name](_link to UWS forum post if it exists_)
 ```
