@@ -59,6 +59,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - render textures not being cleared between scene switches
 - code: singleton now correcly behaves after switching scenes
 - shaders: fixed build errors in Unity 2017.3 +
+- editor: changed string variable names in _Water Physics_ script
 
 ## [2.0.0] - Ultimate Water System release
 ## [1.X.X] - Reserved for Playway Water
