@@ -57,6 +57,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - OpenGl: "Graphics.CopyTexture called on textures of different sizes" error in _WaterRaindropsIME_
 - OpenGl: inverted Raindrops texture in the _Final_ shader
 - render textures not being cleared between scene switches
+- code: singleton now correcly behaves after switching scenes
+- shaders: fixed build errors in Unity 2017.3 +
 
 ## [2.0.0] - Ultimate Water System release
 ## [1.X.X] - Reserved for Playway Water
