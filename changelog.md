@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+## [unreleased (2.1.0b4)]
+
+### Added
+- [#53](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/53) - documentation for the water caustics
+
+### Fixed
+- [#54](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/54) - lack of frustum culling in _Water Interactive_ objects
+- [#44](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/44) - shader errors in Unity 2017.3
+- [#43](https://github.com/Moonlit-Games/Ultimate-Water-System/issues/43) - Water Physics custom editor NRE
+
+- code: singleton now correcly behaves after switching scenes
+- shaders: fixed build errors in Unity 2017.3 +
+- editor: changed string variable names in _Water Physics_ script
+
 ## [2.1.0] - 2018-01-01
 
 ### Added
@@ -57,9 +72,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - OpenGl: "Graphics.CopyTexture called on textures of different sizes" error in _WaterRaindropsIME_
 - OpenGl: inverted Raindrops texture in the _Final_ shader
 - render textures not being cleared between scene switches
-- code: singleton now correcly behaves after switching scenes
-- shaders: fixed build errors in Unity 2017.3 +
-- editor: changed string variable names in _Water Physics_ script
+
 
 ## [2.0.0] - Ultimate Water System release
 ## [1.X.X] - Reserved for Playway Water
